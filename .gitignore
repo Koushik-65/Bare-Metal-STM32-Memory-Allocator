@@ -1,0 +1,16 @@
+#Generated build files
+Debug/
+Release/
+
+#IDE-generated binaries
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+
+
+#Local IDE preferences
+.settings/com.st.stm32cube.ide.mcu.sfrview.prefs
+.settings/org.eclipse.core.resources.prefs
