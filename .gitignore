@@ -1,16 +1,25 @@
-#Generated build files
+# STM32CubeIDE generated build directories
 Debug/
 Release/
 
-#IDE-generated binaries
+# Compiler and linker outputs
+*.o
+*.obj
+*.d
 *.elf
 *.bin
 *.hex
 *.map
-*.o
-*.d
+*.su
+*.a
 
-
-#Local IDE preferences
+# Local IDE preferences
 .settings/com.st.stm32cube.ide.mcu.sfrview.prefs
 .settings/org.eclipse.core.resources.prefs
+
+# Temporary archives
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
